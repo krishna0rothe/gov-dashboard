@@ -22,10 +22,10 @@ function App() {
       <Router>
           <Routes>
           {/* Group all gov-related routes under MainLayout */}
-          <Route path="/gov-dashboard" element={<MainLayout />}>
+          <Route path="/" element={<MainLayout/>}>
             {/* Nested Routes for gov */}
             <Route path="startups/approval" element={<StartupApprovalPage />} />
-            <Route path="home" element={<DashboardHomePage />} />
+            <Route path="gov-dashboard" element={<DashboardHomePage />} />
             <Route
               path="resource-management"
               element={<ResourceManagementPage />}
