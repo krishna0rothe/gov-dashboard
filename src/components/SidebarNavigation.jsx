@@ -9,11 +9,11 @@ const SidebarNavigation = ({ role }) => {
   if (role === "government") {
     menuItems = [
       { text: "Dashboard", icon: <HomeIcon />, path: "/gov-dashboard" },
-      { text: "Startup Approvals", icon: <AssignmentIcon />, path: "startups/approval" },
-      { text: "Resource Management", icon: <BarChartIcon />, path: "/resource-management" },
-      { text: "Mentor Assignments", icon: <PeopleIcon />, path: "/mentor-assignments" },
-      { text: "Data Insights", icon: <BarChartIcon />, path: "/data-insights" },
-      { text: "Settings", icon: <SettingsIcon />, path: "/settings" }
+      { text: "Startup Approvals", icon: <AssignmentIcon />, path: "approval" },
+      { text: "Resource Management", icon: <BarChartIcon />, path: "resource-management" },
+      { text: "Mentor Assignments", icon: <PeopleIcon />, path: "mentor-assignments" },
+      { text: "Data Insights", icon: <BarChartIcon />, path: "data-insights" },
+      { text: "Settings", icon: <SettingsIcon />, path: "settings" }
     ];
   } else if (role === "startup") {
     menuItems = [
