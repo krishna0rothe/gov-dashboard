@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gov-dashboard/static/css/main.cf890fdb.css",
-    "main.js": "/gov-dashboard/static/js/main.2e78e115.js",
+    "main.js": "/gov-dashboard/static/js/main.dd56d22f.js",
     "static/js/453.3d7ab289.chunk.js": "/gov-dashboard/static/js/453.3d7ab289.chunk.js",
     "static/media/dhruvin.png": "/gov-dashboard/static/media/dhruvin.2007897df0f3a26c5faf.png",
     "static/media/diya.png": "/gov-dashboard/static/media/diya.bd95beae276d24e5f936.png",
@@ -17,11 +17,11 @@
     "static/media/linkedin.svg": "/gov-dashboard/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
     "static/media/facebook.svg": "/gov-dashboard/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
     "main.cf890fdb.css.map": "/gov-dashboard/static/css/main.cf890fdb.css.map",
-    "main.2e78e115.js.map": "/gov-dashboard/static/js/main.2e78e115.js.map",
+    "main.dd56d22f.js.map": "/gov-dashboard/static/js/main.dd56d22f.js.map",
     "453.3d7ab289.chunk.js.map": "/gov-dashboard/static/js/453.3d7ab289.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.2e78e115.js"
+    "static/js/main.dd56d22f.js"
   ]
 }
